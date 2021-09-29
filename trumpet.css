@@ -3,3 +3,6 @@ body {
   color: lime;
   font-family: monospace;
 }
+#login-main {
+  border: 1px solid lime;
+}
