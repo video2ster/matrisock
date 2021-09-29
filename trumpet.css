@@ -6,3 +6,20 @@ body {
 #login-main {
   border: 1px solid lime;
 }
+input {
+    color: lime;
+    background: none;
+    border: 1px solid lime;
+    font-family: monospace;
+}
+td input {
+    width: 100%;
+}
+#login-main {
+    border: 1px solid lime;
+    width: 75%;
+    margin: auto;
+    min-width: 400px;
+    max-width: 640px;
+    text-align: right;
+}
