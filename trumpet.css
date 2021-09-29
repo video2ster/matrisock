@@ -3,9 +3,6 @@ body {
   color: lime;
   font-family: monospace;
 }
-#login-main {
-  border: 1px solid lime;
-}
 input {
     color: lime;
     background: none;
@@ -21,5 +18,12 @@ td input {
     margin: auto;
     min-width: 400px;
     max-width: 640px;
+    text-align: center;
+}
+#login-main table {
+    width: 98%;
     text-align: right;
+}
+hr {
+    border: 2px solid lime;
 }
