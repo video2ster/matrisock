@@ -1,5 +1,5 @@
 body {
-  background: url("crt-bg.png"), black; 
+  background: url("crt-bg.png") black; 
   color: lime;
   font-family: monospace;
 }
